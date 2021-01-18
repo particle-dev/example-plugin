@@ -1,0 +1,4 @@
+# Ignore compressed files
+*.zip
+*.aseprite-extension
+

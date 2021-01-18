@@ -1,0 +1,19 @@
+{
+  "name": "my-scripts",
+  "displayName": "My Scripts",
+  "description": "My scripts do something",
+  "version": "0.1",
+  "author": { "name": "FirstName LastName",
+              "email": "my@email.com",
+              "url": "https://mywebsite.com/" },
+  "contributors": [ ],
+  "publisher": "myname",
+  "license": "CC-BY-4.0",
+  "categories": [ "Scripts" ],
+  "contributes": {
+    "scripts": [
+        { "path": "./my-script.lua" }
+    ]
+  }
+}
+
